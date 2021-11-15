@@ -1,0 +1,7 @@
+mkdir - criar novo diretório
+cd / - mudar de diretório
+cd .. - mudar de diretório
+cd "nome da pasta" - mudar de diretório
+ls - listar os arquivos no diretório selecionado
+rm - remover arquivo
+tecla TAB - completa o nome do arquivo ou diretório

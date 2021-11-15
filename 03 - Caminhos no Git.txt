@@ -1,0 +1,28 @@
+"git init" #criando/iniciando um repositório dentro da pasta
+
+"ls -a"    #lista arquivos ocultos
+
+git config --global user.email "rafaelcarvalho.rl@gmail.com"
+git config --global user.name "eternocarvalho"
+
+git add nomeArquivo	\
+git add *		#moveu o arq untracked para a staged
+git add.		/
+
+git commit	#move o arq da area de staged e volta p/
+		unmodified
+
+git status	#monitora os status dos arquivos:
+		untracked, modified, staged,
+
+git config  --global --unset user.mail
+git config  --global --unset user.name
+git --list
+
+git remote add origin "url"
+
+git remote -v	#mostra o endereço do repositório remoto
+
+git push origin master
+
+git clone
